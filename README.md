@@ -25,6 +25,11 @@ I'm a passionate **data scientist and machine learning enthusiast** with a drive
   A project examining search trends to provide insights into user search behavior.  
   [View Repository](https://github.com/its-kanii/Google-Search-Engine-Analysis)
 
+- **Population Data Analysis**
+  
+   A project analyzing global population data with visualizations for countries by continent and population distribution.  
+  [View Repository](https://github.com/its-kanii/PRODIGY_DS_01)
+
 ---
 
 ### 📚 Research Interests
