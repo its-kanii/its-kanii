@@ -1,47 +1,124 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kanimozhi Kathirvel
-===========================================================================================================================================
+<h1 align="center">Hi there, I'm Kanimozhi Kathirvel 👋</h1> 
+<p align="center">A Passionate Data Science and AI Enthusiast | Final Year AI & DS Student | Open Source Contributor</p> 
 
-Aspiring Data Scientist | Machine Learning Enthusiast
------------------------------------------------------
+---
 
-I'm a passionate data scientist and machine learning enthusiast with a drive for uncovering insights through data and building predictive models. My work focuses on pattern recognition, predictive analytics, and computer vision.
+### 🚀 About Me
+🎓 I’m currently pursuing my Bachelor's in AI & DS at C.K. College of Engineering and Technology.  
+🧠 I love solving real-world problems using **Data Science**, **Machine Learning**, and **AI**.  
+💡 Currently working on projects related to accessibility, anomaly detection, and predictive modeling.  
+🌱 Learning: Advanced SQL, Deep Learning, and DevOps for Data Science.  
+🤝 I’m open to collaborating on impactful AI/DS projects and research.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [kanimeena678@gmail.com](mailto:kanimeena678@gmail.com)
-* 🤝  I'm open to collaborating on open source projects
+---
 
-<a href="https://www.github.com/its-kanii" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/its-kanii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/kanimozhikathrivel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/kanimozhikathrivel?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### 🛠️ Tech Stack
 
-### Skills
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data Manipulation & Analysis:**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-7C6DB3?style=flat-square)
+
+**Machine Learning & Deep Learning:**  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-5A5A5A?style=flat-square)
+
+**Visualization & BI Tools:**  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Big Data / Real-time Tools:**  
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Fluvio](https://img.shields.io/badge/-Fluvio-0074D9?style=flat-square)
+
+**Version Control & IDEs:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Cloud & Deployment:**  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square)
+
+**Others:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![UiPath](https://img.shields.io/badge/-UiPath-FE6B00?style=flat-square&logo=uipath&logoColor=white)
+
+---
+
+### 🌟 Notable Projects
+
+🔹 **[YouTube Sign Language Extension](https://github.com/its-kanii/SignLanguage-Extension)**  
+→ Adds real-time sign language translation for YouTube captions  
+→ `Tech`: JavaScript, Web Extensions, NLP, ISL Avatar  
+
+🔹 **[K-Means Clustering Visualizer](https://github.com/its-kanii/ClusterLens)**  
+→ Watch the step-by-step clustering process unfold as a video 
+→ `Tech`: Python, Streamlit, OpenCV (cv2), NumPy, Pandas  
+
+🔹 **[Cryptocurrency Price Predictor](https://github.com/its-kanii/Bitcoin-Price-Prediction)**  
+→ Predicts Bitcoin prices using LSTM neural networks  
+→ `Tech`: Python, Keras, Time Series  
+
+🔹 **[Keploy RAG Bot Integration](https://github.com/its-kanii/Keploy-Bot)** 
+→ Built a Retrieval-Augmented Generation (RAG) bot using LangChain & ChromaDB for Keploy open source  
+→ `Tech`: Python, LangChain, HuggingFace, ChromaDB, RAG, Open Source Contribution  
+
+---
+
+### 🏆 Achievements
+
+| S.No | Title              | Level           | Description                                                             |
+|------|--------------------|------------------|-------------------------------------------------------------------------|
+| 1    | SSLC               | 1st              | School topper in 10th                                                  |
+| 2    | HSC                | 1st              | School topper in 12th                                                  |
+| 3    | Google Cloud Arcade Program | Ultimate Milestone | Reached Ultimate Milestone in GCAP Cohort 1                            |
+| 4    | Paper Presentation | Participation    | Presented at Agni College of Technology, Chennai                       |
+| 5    | Paper Presentation | Participation    | Presented at University of Engineering, Panruti                        |
+| 6    | Workshop           | Participation    | Data Visualization at Mailam Engineering College, Mailam              |
+| 7    | Workshop           | Participation    | Digital Marketing at Next Gen Solutions, Cuddalore                     |
+
+---
+
+### 📜 Certifications
+
+| S.No | Title                                                              | Description                              |
+|------|--------------------------------------------------------------------|------------------------------------------|
+| 1    | Oracle Fusion Cloud Applications CX Certified Foundations Associate | Certificate of Recognition               |
+| 2    | Oracle Fusion Cloud Applications SCM Certified Foundations Associate | Certificate of Recognition               |
+| 3    | Oracle Fusion Cloud Applications ERP Certified Foundations Associate | Certificate of Recognition               |
+| 4    | SQL Basics                                                         | Certificate of Achievement - HackerRank  |
+| 5    | SQL Intermediate                                                   | Certificate of Achievement - HackerRank  |
+| 6    | SQL Advanced                                                       | Certificate of Achievement - HackerRank  |
+| 7    | Natural Language Processing (NLP)                                  | Certificate of Achievement - Infosys Springboard |
+| 8    | Data Science Certification                                         | Certificate of Achievement - Infosys Springboard |
+
+---
+
+### 💡 Interests
+
+- AI for Accessibility ♿  
+- Sign Language & NLP 🤟  
+- Open Source Contributions 🔓  
+- Data Visualization 📊  
+- Teaching Tech in Regional Languages 🇮🇳  
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanimozhi-kathirvel)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanimeena678@gmail.com)  
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kanimozhi19)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@my_ds_diary)  
+[![Discord](https://img.shields.io/badge/-its--kanii%232025-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kanimozhik_21750)
+
+---
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+### 📊 GitHub Stats
 
+![Kani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-kanii&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-kanii&layout=compact)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.dev.to/@kanimozhi001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/kanimozhik_21750" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/its-kanii" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kanimozhi-kathirvel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@kanimozhi19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@my_ds_diary" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/kanimozhikathrivel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+*Thank you for visiting! Have a great day 🌸*
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/its-kanii"><img src="https://github-readme-stats.vercel.app/api?username=its-kanii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="its-kanii's GitHub stats" /></a>
-
-<a href="http://www.github.com/its-kanii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-kanii&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/its-kanii"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=its-kanii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/its-kanii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-kanii&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kanimozhi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
