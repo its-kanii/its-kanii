@@ -50,15 +50,15 @@
 → `Tech`: JavaScript, Web Extensions, NLP, ISL Avatar  
 
 🔹 **[K-Means Clustering Visualizer](https://github.com/its-kanii/ClusterLens)**  
-→ Watch the step-by-step clustering process unfold as a video 
+→ Watch the step-by-step clustering process unfold as a video    
 → `Tech`: Python, Streamlit, OpenCV (cv2), NumPy, Pandas  
 
 🔹 **[Cryptocurrency Price Predictor](https://github.com/its-kanii/Bitcoin-Price-Prediction)**  
 → Predicts Bitcoin prices using LSTM neural networks  
 → `Tech`: Python, Keras, Time Series  
 
-🔹 **[Keploy RAG Bot Integration](https://github.com/its-kanii/Keploy-Bot)** 
-→ Built a Retrieval-Augmented Generation (RAG) bot using LangChain & ChromaDB for Keploy open source  
+🔹 **[Keploy RAG Bot Integration](https://github.com/its-kanii/Keploy-Bot)**     
+→ Built a Retrieval-Augmented Generation (RAG) bot using LangChain & ChromaDB for Keploy open source    
 → `Tech`: Python, LangChain, HuggingFace, ChromaDB, RAG, Open Source Contribution  
 
 ---
